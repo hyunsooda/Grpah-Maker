@@ -2,7 +2,7 @@
 Graph Maker
 
 #### Feature
-```
+
 <ul>
   <li> matrix 저장 및 불러오기</li>
     <li> matrix 저장 및 불러오기 </li>
@@ -16,7 +16,6 @@ Graph Maker
   * Item 2a
   * Item 2b
 
-```
 
 
 <img width="816" alt="2018-11-24 3 39 00" src="https://user-images.githubusercontent.com/12508269/48957205-934b7c80-ef9a-11e8-9460-7413f2d65430.png">
