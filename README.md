@@ -11,10 +11,6 @@ Graph Maker
           <li> sub graph 찾기</li>
 </ul>
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
 
 
 
